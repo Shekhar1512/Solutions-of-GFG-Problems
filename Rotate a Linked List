@@ -3,6 +3,7 @@
 
 class Solution{
     //Function to rotate a linked list.
+// try and hit
     public Node rotate(Node head, int k) {
         // add code here
         
